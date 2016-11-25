@@ -1,0 +1,54 @@
+PODS:
+  - HappyDNS (0.3.10)
+  - pili-ffmpeg (3.1.0)
+  - pili-librtmp (1.0.5)
+  - PLMediaStreamingKit (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - PLMediaStreamingKit/Common (= 2.1.4)
+    - PLMediaStreamingKit/PLCameraStreamingKit (= 2.1.4)
+    - PLMediaStreamingKit/PLMediaStreamingKit (= 2.1.4)
+    - PLMediaStreamingKit/PLRTCStreamingKit (= 2.1.4)
+    - PLMediaStreamingKit/PLStreamingKit (= 2.1.4)
+    - QNNetDiag
+  - PLMediaStreamingKit/Common (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - QNNetDiag
+  - PLMediaStreamingKit/PLCameraStreamingKit (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - QNNetDiag
+  - PLMediaStreamingKit/PLMediaStreamingKit (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - QNNetDiag
+  - PLMediaStreamingKit/PLRTCStreamingKit (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - QNNetDiag
+  - PLMediaStreamingKit/PLStreamingKit (2.1.4):
+    - HappyDNS (~> 0.3.0)
+    - pili-librtmp (= 1.0.5)
+    - QNNetDiag
+  - PLPlayerKit (2.3.0):
+    - HappyDNS (~> 0.3.10)
+    - pili-ffmpeg (~> 3.1.0)
+    - pili-librtmp (~> 1.0.5)
+  - QNNetDiag (0.0.3)
+
+DEPENDENCIES:
+  - PLMediaStreamingKit
+  - PLPlayerKit
+
+SPEC CHECKSUMS:
+  HappyDNS: 06a9fed2796663fd87626dbf02552933265bf059
+  pili-ffmpeg: b76de7e6b730723497d79508be8e8efdcba31a69
+  pili-librtmp: 65a6e10f7c314bd1f407ba24bd074c57cba79d0c
+  PLMediaStreamingKit: 99104d3ed7f037d8e73064d0e11621764ae5c7e4
+  PLPlayerKit: 1473253ee2d7863d8a78dbb3b965161245c51ad5
+  QNNetDiag: 90727185d3cdd4f62f92b7f9b7d586451cf745d1
+
+PODFILE CHECKSUM: f2ad7ac0bb88a81415604dab97d9ea3aa54e5b69
+
+COCOAPODS: 1.0.1
